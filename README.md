@@ -1,4 +1,4 @@
-# Análisis de Churn en Telecomunicaciones
+# Análisis de Churn en Telecomunicaciones 
 
 Este proyecto analiza el abandono (churn) de clientes en una compañía de telecomunicaciones usando Python y técnicas de ciencia de datos.
 El objetivo es identificar patrones y segmentos de clientes con alto riesgo de churn para ayudar a mejorar estrategias de retención.
@@ -14,7 +14,7 @@ Resultados:
 
 ## Link al dashboard interactivo
 
-
+https://public.tableau.com/views/TelcoChurnDashboard_17527311381820/Dashboard1?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ---
 
 ## Contacto
