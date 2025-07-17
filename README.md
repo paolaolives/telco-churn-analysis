@@ -17,6 +17,6 @@ Resultados:
 
 ---
 
-Contacto
+## Contacto
 
 Paola Olivas - [LinkedIn](https://www.linkedin.com/in/paola-olivas/) - paolaolivas.in@gmail.com
